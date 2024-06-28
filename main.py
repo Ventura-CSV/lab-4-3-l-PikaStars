@@ -12,6 +12,7 @@ def main():
     """
 
     # total = sum(numbers)
+    print(numbers)
     print(total)
 
     ########################################
