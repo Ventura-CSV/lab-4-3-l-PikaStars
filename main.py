@@ -14,7 +14,7 @@ def main():
     # total = sum(numbers)
     for i in range(len(numbers)):
         total = total + numbers[i]
-    print(numbers)
+   # print(numbers)
     print(total)
 
     ########################################
